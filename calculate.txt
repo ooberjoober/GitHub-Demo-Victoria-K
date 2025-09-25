@@ -1,4 +1,4 @@
-
+int total;
 int input1;
 int input2;
 
@@ -11,5 +11,6 @@ System.out.println("Input your secound number: ");
 input2 = sc.nextLine();
 
 
+total = input1 + input2;
 
 System.out.println("Your sum is: " + total);
