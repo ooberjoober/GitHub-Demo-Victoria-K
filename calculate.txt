@@ -1,0 +1,16 @@
+int total;
+int input1;
+int input2;
+
+Scanner sc = new Scanner(system.in);
+
+System.out.println("Input your first number: ");
+input1 = sc.nextLine();
+
+System.out.println("Input your secound number: ");
+input2 = sc.nextLine();
+
+
+total = input1 + input2;
+
+System.out.println("Your sum is: " + total);
