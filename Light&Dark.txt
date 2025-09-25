@@ -1,0 +1,7 @@
+System will adjust display depending on user's preference through settings
+-System will be in : Dark Theme
+
+
+Change display theme?
+-Yes 	-No
+
