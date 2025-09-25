@@ -1,2 +1,4 @@
 Hello World!
 Welcome to GitHub's repositories
+
+I want to be able to learn GitHub to use it for present and future projects.
